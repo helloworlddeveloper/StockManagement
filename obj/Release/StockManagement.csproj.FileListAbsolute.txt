@@ -1,0 +1,44 @@
+C:\Users\dorki\Desktop\anystore-master\AnyStore\bin\Release\AnyStore.exe.config
+C:\Users\dorki\Desktop\anystore-master\AnyStore\bin\Release\AnyStore.exe
+C:\Users\dorki\Desktop\anystore-master\AnyStore\bin\Release\AnyStore.pdb
+C:\Users\dorki\Desktop\anystore-master\AnyStore\bin\Release\Bunifu_UI_v1.5.3.dll
+C:\Users\dorki\Desktop\anystore-master\AnyStore\bin\Release\Guna.UI.dll
+C:\Users\dorki\Desktop\anystore-master\AnyStore\obj\Release\AnyStore.csprojAssemblyReference.cache
+C:\Users\dorki\Desktop\anystore-master\AnyStore\obj\Release\AnyStore.frmAdminDashboard.resources
+C:\Users\dorki\Desktop\anystore-master\AnyStore\obj\Release\AnyStore.UI.frmCategories.resources
+C:\Users\dorki\Desktop\anystore-master\AnyStore\obj\Release\AnyStore.UI.frmDeaCust.resources
+C:\Users\dorki\Desktop\anystore-master\AnyStore\obj\Release\AnyStore.UI.frmInventory.resources
+C:\Users\dorki\Desktop\anystore-master\AnyStore\obj\Release\AnyStore.UI.frmLogin.resources
+C:\Users\dorki\Desktop\anystore-master\AnyStore\obj\Release\AnyStore.UI.frmProducts.resources
+C:\Users\dorki\Desktop\anystore-master\AnyStore\obj\Release\AnyStore.UI.frmPurchaseAndSales.resources
+C:\Users\dorki\Desktop\anystore-master\AnyStore\obj\Release\AnyStore.UI.frmTransactions.resources
+C:\Users\dorki\Desktop\anystore-master\AnyStore\obj\Release\AnyStore.frmUserDashboard.resources
+C:\Users\dorki\Desktop\anystore-master\AnyStore\obj\Release\AnyStore.Properties.Resources.resources
+C:\Users\dorki\Desktop\anystore-master\AnyStore\obj\Release\AnyStore.UI.frmUsers.resources
+C:\Users\dorki\Desktop\anystore-master\AnyStore\obj\Release\AnyStore.csproj.GenerateResource.cache
+C:\Users\dorki\Desktop\anystore-master\AnyStore\obj\Release\AnyStore.csproj.CoreCompileInputs.cache
+C:\Users\dorki\Desktop\anystore-master\AnyStore\obj\Release\AnyStore.csproj.CopyComplete
+C:\Users\dorki\Desktop\anystore-master\AnyStore\obj\Release\AnyStore.exe
+C:\Users\dorki\Desktop\anystore-master\AnyStore\obj\Release\AnyStore.pdb
+C:\Users\dorki\Desktop\Stock Management - ONYX\StockManagement\bin\Release\StockManagement.exe.config
+C:\Users\dorki\Desktop\Stock Management - ONYX\StockManagement\bin\Release\StockManagement.exe
+C:\Users\dorki\Desktop\Stock Management - ONYX\StockManagement\bin\Release\StockManagement.pdb
+C:\Users\dorki\Desktop\Stock Management - ONYX\StockManagement\bin\Release\Bunifu_UI_v1.5.3.dll
+C:\Users\dorki\Desktop\Stock Management - ONYX\StockManagement\bin\Release\Guna.UI.dll
+C:\Users\dorki\Desktop\Stock Management - ONYX\StockManagement\obj\Release\StockManagement.csprojAssemblyReference.cache
+C:\Users\dorki\Desktop\Stock Management - ONYX\StockManagement\obj\Release\StockManagement.Properties.Resources.resources
+C:\Users\dorki\Desktop\Stock Management - ONYX\StockManagement\obj\Release\StockManagement.csproj.GenerateResource.cache
+C:\Users\dorki\Desktop\Stock Management - ONYX\StockManagement\obj\Release\StockManagement.csproj.CoreCompileInputs.cache
+C:\Users\dorki\Desktop\Stock Management - ONYX\StockManagement\obj\Release\StockManagement.csproj.CopyComplete
+C:\Users\dorki\Desktop\Stock Management - ONYX\StockManagement\obj\Release\StockManagement.exe
+C:\Users\dorki\Desktop\Stock Management - ONYX\StockManagement\obj\Release\StockManagement.pdb
+C:\Users\dorki\Desktop\Stock Management - ONYX\StockManagement\obj\Release\iResell.frmAdminDashboard.resources
+C:\Users\dorki\Desktop\Stock Management - ONYX\StockManagement\obj\Release\iResell.UI.frmCategories.resources
+C:\Users\dorki\Desktop\Stock Management - ONYX\StockManagement\obj\Release\iResell.UI.frmDeaCust.resources
+C:\Users\dorki\Desktop\Stock Management - ONYX\StockManagement\obj\Release\iResell.UI.frmInventory.resources
+C:\Users\dorki\Desktop\Stock Management - ONYX\StockManagement\obj\Release\iResell.UI.frmLogin.resources
+C:\Users\dorki\Desktop\Stock Management - ONYX\StockManagement\obj\Release\iResell.UI.frmProducts.resources
+C:\Users\dorki\Desktop\Stock Management - ONYX\StockManagement\obj\Release\iResell.UI.frmPurchaseAndSales.resources
+C:\Users\dorki\Desktop\Stock Management - ONYX\StockManagement\obj\Release\iResell.UI.frmTransactions.resources
+C:\Users\dorki\Desktop\Stock Management - ONYX\StockManagement\obj\Release\iResell.frmUserDashboard.resources
+C:\Users\dorki\Desktop\Stock Management - ONYX\StockManagement\obj\Release\iResell.UI.frmUsers.resources
